@@ -1,5 +1,7 @@
 # React and Flux from Scratch - Fluent 2016
 
+##NOTE: This is the COMPLETED version. I'm just posting this so you can copy and paste individual files to save typing, and to help debug issues with your version. The starter kit for the session is here: [https://github.com/coryhouse/fluent2016](https://github.com/coryhouse/fluent2016])
+
 Please complete the following machine setup **in advance**:  
  1. **Install the latest LTS version of [Node](https://nodejs.org)** - Currently, that's 4.2.6.  
  2. **Install [Git](https://git-scm.com/downloads)**.  
